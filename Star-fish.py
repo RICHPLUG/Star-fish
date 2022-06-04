@@ -107,7 +107,7 @@ def mkdir_data_login():
     # Make Directory Login Data
     try:os.mkdir("login")
     # Make Directory Dump
-    try:os.mkdir("dump")
+    tr
     except:pass
     # Make Directory Pass
     try:os.mkdir("tool")
